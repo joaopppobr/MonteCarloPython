@@ -1,1 +1,1 @@
-## Simulatiions in Python
+## Simulations in Python
